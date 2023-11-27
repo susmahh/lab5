@@ -28,6 +28,9 @@ if(isset($_POST['submit'])){
         <label for="password">Password:</label>
         <input type="password" class="input-type"id="password" name="password" required><br><br>
 
+        <button name="submit"><"><a href="#">Login </a></button>
+        <hr>
+        <h5>Don't have an account?</br>SIgnup here</h5>
         <button name="submit"><"><a href="signup.php">Login </a></button>
     </form>
     </div>
