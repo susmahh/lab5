@@ -31,7 +31,7 @@ if(isset($_POST['submit'])){
         <button name="submit"><"><a href="#">Login </a></button>
         <hr>
         <h5>Don't have an account?</br>SIgnup here</h5>
-        <button name="submit"><"><a href="signup.php">Signup</a></button>
+        <button name="submit"><a href="signup.php">Signup</a></button>
     </form>
     </div>
 <?php
