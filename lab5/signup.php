@@ -31,7 +31,7 @@ if(isset($_POST['submit'])){
         <hr>
         <p class="or">OR</p>
         <p>Already have an account?</p>
-        <button name="submit"><a href="#"> Login </a></button>
+        <button name="submit"><a href="login.php"> Login </a></button>
     </form>
 </div>
 <?php
